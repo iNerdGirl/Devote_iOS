@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8C7CA1B128651B2300ECA2B7 /* HideKeyboardExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C7CA1B028651B2300ECA2B7 /* HideKeyboardExtension.swift */; };
 		8CF4CF8928627CE80000A5F6 /* DevoteApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CF4CF8828627CE80000A5F6 /* DevoteApp.swift */; };
 		8CF4CF8B28627CE80000A5F6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CF4CF8A28627CE80000A5F6 /* ContentView.swift */; };
 		8CF4CF8D28627CEA0000A5F6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8CF4CF8C28627CEA0000A5F6 /* Assets.xcassets */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8C7CA1B028651B2300ECA2B7 /* HideKeyboardExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HideKeyboardExtension.swift; sourceTree = "<group>"; };
 		8CF4CF8528627CE80000A5F6 /* Devote.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Devote.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CF4CF8828627CE80000A5F6 /* DevoteApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DevoteApp.swift; sourceTree = "<group>"; };
 		8CF4CF8A28627CE80000A5F6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -107,6 +109,7 @@
 		8CF4CFA42862A8B50000A5F6 /* Extension */ = {
 			isa = PBXGroup;
 			children = (
+				8C7CA1B028651B2300ECA2B7 /* HideKeyboardExtension.swift */,
 			);
 			path = Extension;
 			sourceTree = "<group>";
@@ -210,6 +213,7 @@
 			files = (
 				8CF4CF9228627CEA0000A5F6 /* Persistence.swift in Sources */,
 				8CF4CF8B28627CE80000A5F6 /* ContentView.swift in Sources */,
+				8C7CA1B128651B2300ECA2B7 /* HideKeyboardExtension.swift in Sources */,
 				8CF4CFAF2862B0150000A5F6 /* Constant.swift in Sources */,
 				8CF4CF9528627CEA0000A5F6 /* Devote.xcdatamodeld in Sources */,
 				8CF4CF8928627CE80000A5F6 /* DevoteApp.swift in Sources */,
